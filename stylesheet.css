@@ -1,0 +1,136 @@
+body {
+	background-color: lightgrey;
+}
+
+.resume {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+.resume .header h1 {
+	font-family: 'Shift', sans-serif;
+	font-size: 28px;
+	// text-decoration: underline;
+	// font-weight: bold;
+}
+
+.picture img {
+	width: 12%;
+	padding-right: 10px;
+	float: left;
+}
+.contact h1 {
+	font-size: 28px;
+	// font-weight: bold;
+}
+
+.contact h2 {
+	font-size: 16px;
+	margin: 0px 0px;
+}
+
+.qualifications {
+	// 	padding: 0px 0px;
+}
+
+.qualifications .header h1 {
+	font-family: initial;
+	font-size: 28px;
+	// font-weight: bold; 
+}
+
+.qualifications .list li {
+	font-size: 16px;
+}
+
+.qualifications .table .column_1 h1 {
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom: 2px solid #000000;
+}
+
+.qualifications .table .column_1 p {
+	font-size: 12px;
+}
+
+.qualifications .table .column_2 h1 {
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom: 2px solid #000000;
+}
+
+.qualifications .table .column_2 p {
+	font-size: 12px;
+}
+
+.qualifications .table .column_3 h1 {
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom: 2px solid #000000;
+}
+
+.qualifications .table .column_3 p {
+	font-size: 12px;
+}
+
+.qualifications .table .column_4 h1 {
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom: 2px solid #000000;
+}
+
+.qualifications .table .column_4 p {
+	font-size: 12px;
+}
+
+.qualifications .table .column_5 h1 {
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom: 2px solid #000000;
+}
+
+.qualifications .table .column_5 p {
+	font-size: 12px;
+}
+
+.professional_experience .header h1 {
+	font-family: initial;
+	font-size: 28px;
+	// font-weight: bold;
+}
+
+.professional_experience .job h2 {
+	font-family: initial;
+	font-size: 18px;
+	// font-weight: bold;
+}
+
+.professional_experience .list li {
+	font-family: initial;
+	font-size: 16px;
+	// font-weight: bold;
+}
+
+.education .header h1 {
+	font-family: initial;
+	font-size: 28px;
+	// font-weight: bold;
+}
+
+.education .list li {
+	font-family: initial;
+	font-size: 16px;
+	// font-weight: bold;
+}
+
+.references_salary .header h1 {
+	font-family: initial;
+	font-size: 28px;
+	// font-weight: bold;
+}
+
+.references_salary p {
+	font-family: initial;
+	font-size: 16px;
+	// font-weight: bold;
+}
